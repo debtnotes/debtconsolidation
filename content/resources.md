@@ -33,5 +33,6 @@ Availability, county coverage, income eligibility, conflicts, and fees can chang
 - **Repayment-plan comparison:** NFCC member or MMI, while also asking a lawyer about the home/judgment facts.
 - **An ad, call, or text promises fast relief:** read the [scam-screening guide](./scams/) before sharing information or paying anyone.
 - **Reverse mortgage, refinance, foreclosure, or sale:** HUD counselor plus independent attorney/benefits review.
+- **Jewish community, Chabad, or synagogue connection:** see [Jewish community support and trusted referrals](./jewish-community/) for confidential referral language, Hebrew Free Loan, JSSA, CHAI, and counseling starting points.
 
 When the county is known, ask MAP, Court Help, MVLS, and Maryland Legal Aid for county-specific organizations. Do not assume statewide coverage for every type of case.

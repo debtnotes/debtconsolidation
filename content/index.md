@@ -19,7 +19,7 @@ The first task is **not** to find $40,000. It is to protect housing, food, medic
 4. [Compare non-bankruptcy and bankruptcy paths](./options/). Do not force a repayment plan that the essentials-first budget cannot support.
 5. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
 6. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
-7. [Use verified starting resources](./resources/). Free screening and brief advice can clarify the important branches.
+7. [Use verified starting resources](./resources/) or [Jewish community support and referrals](./jewish-community/). Free screening and brief advice can clarify the important branches.
 8. [Read practical FAQs](./faq/), [look up key terms](./key-terms/), and see the [research and review trail](./research-governance/) before making a decision.
 
 ## The central risk tradeoff

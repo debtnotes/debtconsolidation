@@ -2,7 +2,7 @@ import { readdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
 const outputRoot = new URL("../docs/", import.meta.url);
-const notice = `<aside class="site-safety-notice" role="note" aria-label="Important information notice"><strong>AI-generated educational information — verify before acting.</strong> This site can be incomplete, outdated, or mistaken. It is not legal, financial, tax, credit, benefits, medical, or other professional advice. Buyer beware: independently verify every material fact, fee, promise, contract, and deadline with official sources and a qualified professional before you pay, sign, transfer property, borrow, settle, or file anything.</aside>`;
+const notice = `<aside class="site-safety-notice" role="note" aria-label="Important information notice"><strong>AI-generated content may be mistaken.</strong> Verify facts, fees, deadlines, and contracts yourself; this is not professional advice. Buyer beware.</aside>`;
 const robots = "User-agent: *\nDisallow: /\n";
 
 async function htmlFiles(directory) {
@@ -18,7 +18,7 @@ async function htmlFiles(directory) {
 for (const path of await htmlFiles(outputRoot.pathname)) {
   const html = await readFile(path, "utf8");
   if (html.includes('class="site-safety-notice"')) continue;
-  const updated = html.replace(/(<header\b[^>]*>.*?<\/header>)/, `$1${notice}`);
+  const updated = html.replace("</header>", `${notice}</header>`);
   if (updated === html) throw new Error(`Could not place notice in ${path}`);
   await writeFile(path, updated);
 }
