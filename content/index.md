@@ -20,7 +20,7 @@ The first task is **not** to find $40,000. It is to protect housing, food, medic
 5. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
 6. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
 7. [Use verified starting resources](./resources/). Free screening and brief advice can clarify the important branches.
-8. [Read practical FAQs](./faq/) and [look up key terms](./key-terms/) before making a decision.
+8. [Read practical FAQs](./faq/), [look up key terms](./key-terms/), and see the [research and review trail](./research-governance/) before making a decision.
 
 ## The central risk tradeoff
 
