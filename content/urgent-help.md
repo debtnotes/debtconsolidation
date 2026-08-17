@@ -15,6 +15,8 @@ description: The first actions to take when a Maryland debt problem may have a d
 4. **Call the right starting point.** Use [Maryland Court Help](https://www.courts.state.md.us/helpcenter), a Maryland consumer/bankruptcy lawyer, or the [Maryland resources list](./resources/). If the issue is foreclosure or eviction in Baltimore City/County, [CHAI](https://chaibaltimore.org/what-we-do/housing-counseling/) offers free HUD-certified housing counseling.
 5. **Protect benefit evidence.** If Social Security is directly deposited, preserve statements showing the deposits and the award letter. A bank-account exemption process may still be required. See [SSI, SSDI, and Medicaid](./benefits/).
 
+If the notice is a consumer-debt lawsuit, use the [lawsuit, debt-program, and legal-decision guide](./sued-and-debt-programs/) to compare a DMP or hardship offer without missing the court process.
+
 ## Choose the branch that matches the notice
 
 ```mermaid

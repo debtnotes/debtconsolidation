@@ -10,6 +10,7 @@
       "text": "Act now",
       "items": [
         { "text": "Urgent: court, freeze, foreclosure", "link": "/urgent-help/" },
+        { "text": "If sued: program and court decisions", "link": "/sued-and-debt-programs/" },
         { "text": "Start with facts and budget", "link": "/getting-started/" }
       ]
     },
