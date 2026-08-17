@@ -39,6 +39,18 @@ The automatic amount is not unlimited tracing protection. Funds above it, funds 
 
 SSA says a loan must be enforceable under state law. Its 2026 consumer guidance states that a valid loan does not reduce SSI as income, while borrowed funds retained into the next month count toward the resource limit. [SSA: Spotlight on Loans](https://www.ssa.gov/ssi/spotlights/spot-loans.htm); [POMS cash-loan policy](https://secure.ssa.gov/poms.nsf/%20lnx/0501120220).
 
+```mermaid
+flowchart TD
+  A[Money or property is offered] --> B{Which benefit is actually received?}
+  B -->|SSDI only| C[Check other programs, taxes, and creditor exposure]
+  B -->|SSI or concurrent SSDI/SSI| D{Gift or bona fide loan?}
+  D -->|Gift| E[Report and check income/resource effect before receipt]
+  D -->|Loan| F[Use enforceable terms; unspent proceeds can count next month]
+  C --> G[Do not mix funds into benefits-only account]
+  E --> G
+  F --> G
+```
+
 ## Home, sale proceeds, and transfers
 
 The home occupied by the recipient is generally an excluded SSI resource, but selling it, adding someone to title, giving away an ownership share, or retaining proceeds all create separate questions. A transfer for less than fair market value can create SSI ineligibility unless an exception is established. [SSA POMS: transfers](https://secure.ssa.gov/poms.nsf/%20lnx/0501150001).

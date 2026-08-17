@@ -45,6 +45,20 @@ The FTC says only scammers demand upfront payment before settling debts or enter
 
 ## A five-step vendor check
 
+```mermaid
+flowchart TD
+  A[Debt-relief ad, call, or referral] --> B{Upfront fee, guarantee, or pressure?}
+  B -->|Yes| C[Pause: likely scam or unsuitable high-pressure offer]
+  B -->|No| D[Get written service type and all fees]
+  D --> E{Debt management, loan, or settlement?}
+  E -->|Settlement| F[Model nonpayment, lawsuit, tax, and fee risk]
+  E -->|Loan| G[Check whether the home becomes collateral]
+  E -->|DMP| H[Check true monthly affordability and fees]
+  F --> I[Verify independently before signing]
+  G --> I
+  H --> I
+```
+
 1. **Name the service.** Ask: “Is this debt management, settlement, consolidation lending, credit repair, or legal representation?” Put the answer in writing.
 2. **Get all costs in dollars.** Ask for enrollment, monthly, escrow/savings-account, settlement, cancellation, and loan/closing fees—then calculate the maximum cost on $40,000.
 3. **Ask what happens to each card.** Will payments stop? Will cards close? Can a creditor sue? Who handles a summons? What is the refund policy?

@@ -3,14 +3,20 @@
   "version": "1.0.0",
   "description": "A Maryland consumer-debt decision wiki built with Astra.",
   "scripts": {
-    "build": "astra build --out ./docs",
+    "build": "astra build --out ./docs && mkdir -p docs/assets/mermaid && cp -R node_modules/mermaid/dist/. docs/assets/mermaid/",
     "dev": "astra dev --port 7777"
   },
-  "keywords": ["maryland", "debt", "disability", "consumer-debt"],
+  "keywords": [
+    "maryland",
+    "debt",
+    "disability",
+    "consumer-debt"
+  ],
   "author": "",
   "license": "MIT",
   "type": "commonjs",
   "devDependencies": {
-    "@luna_ui/astra": "^0.23.0"
+    "@luna_ui/astra": "^0.23.0",
+    "mermaid": "^11.12.2"
   }
 }

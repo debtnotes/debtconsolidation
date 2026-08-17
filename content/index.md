@@ -20,6 +20,7 @@ The first task is **not** to find $40,000. It is to protect housing, food, medic
 5. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
 6. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
 7. [Use verified starting resources](./resources/). Free screening and brief advice can clarify the important branches.
+8. [Read practical FAQs](./faq/) and [look up key terms](./key-terms/) before making a decision.
 
 ## The central risk tradeoff
 
@@ -29,17 +30,16 @@ Social Security benefits have strong federal protection from ordinary private cr
 
 ## Quick decision tree
 
-```text
-Is there a summons, judgment, frozen account, lien, or foreclosure notice?
-├─ Yes → Calendar the deadline today; get court/consumer/bankruptcy help.
-│         Do not make a last-minute transfer or grant a new house lien.
-└─ No → Is there money left after essentials and a realistic safety buffer?
-          ├─ No → hardship + legal/benefits screening; compare nonpayment,
-          │        settlement only with cash in hand, sale/downsize, bankruptcy.
-          └─ Yes → Can cards be cleared without putting the house up as collateral?
-                    ├─ Yes → compare issuer hardship and nonprofit DMP.
-                    └─ No → independently review equity, title, SSI/Medicaid,
-                              and bankruptcy before considering friend assistance.
+```mermaid
+flowchart TD
+  A[Collection, judgment, frozen account, lien, or foreclosure notice?] -->|Yes| B[Calendar deadline today and get legal help]
+  B --> C[Do not transfer property or grant a new home lien]
+  A -->|No| D{Money left after essentials and a safety buffer?}
+  D -->|No| E[Hardship and legal/benefits screening]
+  E --> F[Compare nonpayment, settlement with cash in hand, sale, and bankruptcy]
+  D -->|Yes| G{Can cards be resolved without home collateral?}
+  G -->|Yes| H[Compare issuer hardship and nonprofit DMP]
+  G -->|No| I[Verify equity, title, SSI/Medicaid, and bankruptcy effects first]
 ```
 
 ## What this wiki includes

@@ -21,6 +21,17 @@ The communication principle is simple: make the request exact and limited; give 
 
 ## Help menu
 
+```mermaid
+flowchart TD
+  A[Friend wants to help] --> B{Independent legal and benefits review completed?}
+  B -->|No| C[Fund or schedule the review first]
+  B -->|Yes| D{Is a no-repayment gift affordable for the friend?}
+  D -->|Yes| E[Consider capped professional-cost or clearly documented gift]
+  D -->|No| F{Can a feasible unsecured loan meet the need?}
+  F -->|Yes| G[Use separate advice and a written repayment/change plan]
+  F -->|No| H[Home-secured structure only after title, licensing, tax, benefits, and bankruptcy review]
+```
+
 | Structure | What it changes | Minimum protection |
 |---|---|---|
 | Outright gift | No repayment or foreclosure obligation. | Check SSI/Medicaid reporting/timing and donor gift-tax reporting. |

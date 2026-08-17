@@ -5,6 +5,9 @@
   "out": "./docs",
   "base": "/debtconsolidation/",
   "deploy": "github-pages",
+  "headSnippets": [
+    "<script type=\"module\">import mermaid from '/debtconsolidation/assets/mermaid/mermaid.esm.min.mjs'; mermaid.initialize({ startOnLoad: false, theme: 'neutral', securityLevel: 'strict', flowchart: { useMaxWidth: true, htmlLabels: true } }); window.addEventListener('DOMContentLoaded', async () => { document.querySelectorAll('pre[data-lang=\"mermaid\"]').forEach((pre) => { const diagram = document.createElement('div'); diagram.className = 'mermaid'; diagram.textContent = pre.textContent; pre.replaceWith(diagram); }); await mermaid.run({ querySelector: '.mermaid' }); });</script>"
+  ],
   "theme": {
     "primaryColor": "#0f766e",
     "secondaryColor": "#0e7490",
