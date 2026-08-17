@@ -17,6 +17,8 @@ If either plan needs money that the survival budget does not have, or a summons,
 
 **Already sued or holding court papers?** Read [the lawsuit, DMP, and legal-decision guide](./sued-and-debt-programs/) before making a counseling appointment. A DMP does not answer the case for you.
 
+**Want to check historical legal matters?** See [legal history of MMI and GreenPath](./provider-legal-history/). It separates allegations, settlements, regulator orders, and procedural rulings rather than treating a lawsuit title as proof of current misconduct.
+
 ## Transparent shortlist — ranked for a Maryland DMP screening
 
 This is a **screening rank**, not an endorsement or prediction of outcomes. Rank uses: Maryland/DOJ listing where available, NFCC membership, nonprofit/counseling scope, fee transparency, housing/other counseling scope, and an A+ BBB rating checked on the linked profile. BBB is only one consumer-information signal; it is not a quality certification and local BBB profiles can differ in accreditation status.

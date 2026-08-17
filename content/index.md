@@ -20,10 +20,11 @@ The first task is **not** to find $40,000. It is to protect housing, food, medic
 5. [Compare non-bankruptcy and bankruptcy paths](./options/). Do not force a repayment plan that the essentials-first budget cannot support.
 6. [Compare nonprofit debt-management counselors](./compare-credit-counselors/). Use written quotes and an affordability test—not advertising or star ratings.
 7. [If you are sued: debt programs, court steps, and questions](./sued-and-debt-programs/). Keep a DMP decision separate from the court deadline.
-8. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
-9. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
-10. [Use verified starting resources](./resources/) or [Jewish community support and referrals](./jewish-community/). Free screening and brief advice can clarify the important branches.
-11. [Read practical FAQs](./faq/), [look up key terms](./key-terms/), and see the [research and review trail](./research-governance/) before making a decision.
+8. [Check DMP provider legal history](./provider-legal-history/). Read outcomes accurately: an allegation, settlement, and final judgment mean different things.
+9. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
+10. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
+11. [Use verified starting resources](./resources/) or [Jewish community support and referrals](./jewish-community/). Free screening and brief advice can clarify the important branches.
+12. [Read practical FAQs](./faq/), [look up key terms](./key-terms/), and see the [research and review trail](./research-governance/) before making a decision.
 
 ## The central risk tradeoff
 
