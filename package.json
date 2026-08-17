@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Maryland consumer-debt decision wiki built with Astra.",
   "scripts": {
-    "build": "astra build --out ./docs && mkdir -p docs/assets/mermaid && cp -R node_modules/mermaid/dist/. docs/assets/mermaid/",
+    "build": "astra build --out ./docs && mkdir -p docs/assets/mermaid && cp -R node_modules/mermaid/dist/. docs/assets/mermaid/ && node scripts/add-site-notice.mjs",
     "dev": "astra dev --port 7777"
   },
   "keywords": [

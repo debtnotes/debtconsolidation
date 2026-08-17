@@ -6,7 +6,8 @@
   "base": "/debtconsolidation/",
   "deploy": "github-pages",
   "headSnippets": [
-    "<script type=\"module\">import mermaid from '/debtconsolidation/assets/mermaid/mermaid.esm.min.mjs'; mermaid.initialize({ startOnLoad: false, theme: 'neutral', securityLevel: 'strict', flowchart: { useMaxWidth: true, htmlLabels: true } }); window.addEventListener('DOMContentLoaded', async () => { document.querySelectorAll('pre[data-lang=\"mermaid\"]').forEach((pre) => { const diagram = document.createElement('div'); diagram.className = 'mermaid'; diagram.textContent = pre.textContent; pre.replaceWith(diagram); }); await mermaid.run({ querySelector: '.mermaid' }); });</script>"
+    "<script type=\"module\">import mermaid from '/debtconsolidation/assets/mermaid/mermaid.esm.min.mjs'; mermaid.initialize({ startOnLoad: false, theme: 'neutral', securityLevel: 'strict', flowchart: { useMaxWidth: true, htmlLabels: true } }); window.addEventListener('DOMContentLoaded', async () => { document.querySelectorAll('pre[data-lang=\"mermaid\"]').forEach((pre) => { const diagram = document.createElement('div'); diagram.className = 'mermaid'; diagram.textContent = pre.textContent; pre.replaceWith(diagram); }); await mermaid.run({ querySelector: '.mermaid' }); });</script>",
+    "<style>.site-safety-notice{margin:1rem 0 1.5rem;padding:1rem 1.1rem;border:1px solid #b45309;border-left:5px solid #b45309;border-radius:.45rem;background:#fff8e8;color:#4a2a05;font-size:.94rem;line-height:1.55}.site-safety-notice strong{display:block;margin-bottom:.25rem;color:#7c2d12}html.dark .site-safety-notice{background:#2a1b08;color:#fde8be;border-color:#fbbf24}html.dark .site-safety-notice strong{color:#fcd34d}</style>"
   ],
   "theme": {
     "primaryColor": "#0f766e",
