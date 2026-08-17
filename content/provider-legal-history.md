@@ -9,6 +9,15 @@ description: A careful, source-linked summary of reported lawsuits and regulator
 
 > **Read outcomes precisely.** A complaint says what a plaintiff alleges. A denied motion to dismiss means the case may proceed; it is not a final liability finding. A settlement resolves claims, usually without deciding every allegation. A court judgment or regulator order is stronger evidence of the result in that particular matter. Entity names, services, governing law, and facts can also change over time.
 
+## Research scope and confidence limits
+
+This update checked the named federal/state matters, the California regulator record, current provider disclosures, the U.S. Trustee’s public list, and searches of FTC, CFPB, DOJ, and web-indexed court materials. It gives priority to court opinions, regulator documents, and the providers’ own current disclosures. It does **not** claim that no other lawsuit, demand letter, arbitration, confidential settlement, or regulator inquiry exists: no public-web search can prove that negative, and PACER/state-court records may require a paid or in-person search.
+
+Two scope rules matter:
+
+1. **The case name must match the entity.** “GreenPath Financial Wellness” is the brand; the current legal entity in the provider’s disclosure is GreenPath, Inc. MMI formerly used the name Money Management by Mail, so older documents may name both.
+2. **The product must match the question.** A standard DMP, counseling-only service, debt settlement/resolution program, and consolidation loan are different products. In particular, MMI’s current materials separately describe a Debt Management Plan and a Debt Resolution Plan. Do not use an old DMP case to assume the terms of a newer, different product. [MMI disclosures](https://www.moneymanagement.org/disclosures).
+
 ## At a glance
 
 | Provider | Matter | What was at issue | Verified public outcome | What it does—and does not—show |
@@ -36,6 +45,8 @@ California’s Department of Financial Protection and Innovation (DFPI), the suc
 
 The formal settlement agreement states that the California bill-payer/prorater law required licensing or exempt status and that the defendants had not been licensed, while they contended they were exempt. The point is not to decide that old dispute from a summary: use it as a signal to ask for the **current, state-specific** authorization and written fee terms. [Formal settlement agreement](https://dfpi.ca.gov/wp-content/uploads/sites/337/2013/03/MoneyManagement_FormalSA.pdf).
 
+The regulator’s desist-and-refrain document describes its view that MMI and related parties were engaging in bill-paying/prorating without a license and without meeting the exemption requirements; it also described the then-disclosed client fee and creditor-funded contribution model. Those were agency findings in the historical matter, not a substitute for confirming the current Maryland contract. [California desist-and-refrain order](https://dfpi.ca.gov/wp-content/uploads/sites/337/2013/03/MoneyManagement.pdf).
+
 ### 3. Individual DMP breach-of-contract suit
 
 In *Guishard v. Money Management International, Inc./Consumer Credit Counseling Service*, a Texas customer alleged that MMI failed to make payments to creditors and credit her account. The trial court granted MMI summary judgment; the Texas Fourteenth Court of Appeals affirmed in 2015. The appellate court explained that the customer did not timely answer discovery or the summary-judgment motion with evidence. [Texas appellate opinion](https://law.justia.com/cases/texas/fourteenth-court-of-appeals/2015/14-14-00362-cv.html).
@@ -53,6 +64,36 @@ The federal court denied GreenPath’s motion to dismiss on January 5, 2021. It 
 GreenPath argued that one plaintiff had accepted a refund. The court said that did not eliminate standing at the motion-to-dismiss stage, because GreenPath did not dispute that it had retained more than 7.5% of what it distributed to creditors under the court’s interpretation. This describes the court’s procedural ruling—not a conclusion about every GreenPath customer or every state’s fee law.
 
 **Outcome limit:** The reliable, freely accessible docket material I reviewed stops around the January 2021 dismissal ruling. I could not independently verify a later final judgment, dismissal, or settlement. Therefore this wiki does **not** call the case a final GreenPath loss, does not report damages, and does not infer that a similar rule automatically applies in Maryland.
+
+## Current Maryland check: useful, but not a clean bill of health
+
+The historical matters above are not the only diligence step. On August 17, 2026, the providers’ own current disclosures identified these Maryland complaint/licensing references:
+
+| Provider | Current disclosure | What to do with it |
+|---|---|---|
+| MMI | MMI identifies itself as a Texas 501(c)(3), gives **NMLS ID 897900**, and says Maryland’s Commissioner of Financial Regulation accepts questions/complaints about it. It also discloses that voluntary creditor contributions can be up to 15% of each payment received, while saying accounts are credited with 100% of payments minus permitted consumer fees. | Verify the NMLS record and the exact contract entity. Ask for a month-by-month allocation showing the consumer fee, creditor contribution (if any), payment sent, and payment-posting date for each account. [MMI current disclosures](https://www.moneymanagement.org/disclosures). |
+| GreenPath | GreenPath identifies **GreenPath, Inc.**, **NMLS 901930**, and says Maryland’s Commissioner accepts questions/complaints about its Maryland activity. Its disclosure says a DMP is not a loan and its terms/fees vary by state. | Verify the NMLS record and the exact entity/DBA on the agreement. Ask for the Maryland fee schedule, every creditor’s acceptance, and the written procedure for correcting a misapplied payment. [GreenPath licensing disclosure](https://www.greenpath.com/licensing-disclosure/). |
+
+The [U.S. Trustee’s Maryland list](https://www.justice.gov/ust/credit-counseling-by-state/Maryland) includes both organizations for pre-bankruptcy credit counseling. That approval is **not** an endorsement of DMP quality or proof that a particular DMP is suitable; both providers’ disclosures make the same distinction about bankruptcy-related approval.
+
+## What the historic cases cannot answer
+
+- They cannot tell a Maryland shopper whether every current creditor will accept a proposed DMP.
+- They cannot establish a current complaint rate, success rate, payment-posting error rate, or lawsuit-dismissal rate for either provider.
+- They cannot determine whether a Maryland fee is lawful or whether a particular court case must be answered. Those questions require the actual contract, current law, and—if sued—legal help.
+- They do not convert a BBB grade, NFCC membership, nonprofit status, HUD relationship, or U.S. Trustee listing into a guarantee. Use those as verification signals, not a promise.
+
+## A practical evidence file before enrollment
+
+Save these items in one folder or notebook. They are more useful than a generic online review if something later goes wrong.
+
+1. The full signed agreement and every state disclosure—not just the sales quote.
+2. The provider’s written list of included and excluded creditors, each account’s balance, APR/concession, first-payment date, and projected payoff date.
+3. Written creditor acceptance for every account, plus the name/date/call reference for direct creditor verification.
+4. A monthly record of provider withdrawal, program fee, creditor amount sent, creditor statement posting, and remaining balance.
+5. Every notice of a late payment, plan cancellation, collection, lawsuit, judgment, or change in terms, with the date you sent it to the provider and to legal help if appropriate.
+
+If a provider will not provide this level of documentation before enrollment, or if the payment fails the essentials-first budget, do not treat history or marketing as a reason to proceed.
 
 ## How to use this history without overreacting
 
@@ -79,4 +120,3 @@ flowchart TD
 - If I have a summons, judgment, or collection attorney, do you provide legal representation? (A DMP provider ordinarily does not replace court counsel.)
 
 Use this alongside the [nonprofit DMP comparison](./compare-credit-counselors/) and the [if-sued decision guide](./sued-and-debt-programs/). For current selection, the written plan, direct creditor verification, affordability, and court/benefits risks matter more than an old lawsuit title alone.
-
