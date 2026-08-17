@@ -1,0 +1,16 @@
+{
+  "name": "debtconsolidation",
+  "version": "1.0.0",
+  "description": "A Maryland consumer-debt decision wiki built with Astra.",
+  "scripts": {
+    "build": "astra build --out ./dist",
+    "dev": "astra dev --port 7777"
+  },
+  "keywords": ["maryland", "debt", "disability", "consumer-debt"],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@luna_ui/astra": "^0.23.0"
+  }
+}
