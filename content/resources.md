@@ -31,6 +31,7 @@ Availability, county coverage, income eligibility, conflicts, and fees can chang
 - **Home equity or a bankruptcy question:** DAP/MVLS/low-bono consultation before any lien or title move.
 - **SSI, Medicaid, SNAP, or housing assistance:** MAP plus the program administrator/benefits professional before receiving funds or changing title.
 - **Repayment-plan comparison:** NFCC member or MMI, while also asking a lawyer about the home/judgment facts.
+- **Choosing a nonprofit DMP provider:** use the [ranked counselor comparison and worksheet](./compare-credit-counselors/) to get competing written quotes before enrolling.
 - **An ad, call, or text promises fast relief:** read the [scam-screening guide](./scams/) before sharing information or paying anyone.
 - **Reverse mortgage, refinance, foreclosure, or sale:** HUD counselor plus independent attorney/benefits review.
 - **Jewish community, Chabad, or synagogue connection:** see [Jewish community support and trusted referrals](./jewish-community/) for confidential referral language, Hebrew Free Loan, JSSA, CHAI, and counseling starting points.

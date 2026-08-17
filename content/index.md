@@ -18,10 +18,11 @@ The first task is **not** to find $40,000. It is to protect housing, food, medic
 3. [Protect disability income and benefits](./benefits/). SSDI and SSI have importantly different rules.
 4. [Understand collection and home risk](./creditors/). A house can matter even when income is protected.
 5. [Compare non-bankruptcy and bankruptcy paths](./options/). Do not force a repayment plan that the essentials-first budget cannot support.
-6. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
-7. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
-8. [Use verified starting resources](./resources/) or [Jewish community support and referrals](./jewish-community/). Free screening and brief advice can clarify the important branches.
-9. [Read practical FAQs](./faq/), [look up key terms](./key-terms/), and see the [research and review trail](./research-governance/) before making a decision.
+6. [Compare nonprofit debt-management counselors](./compare-credit-counselors/). Use written quotes and an affordability test—not advertising or star ratings.
+7. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
+8. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
+9. [Use verified starting resources](./resources/) or [Jewish community support and referrals](./jewish-community/). Free screening and brief advice can clarify the important branches.
+10. [Read practical FAQs](./faq/), [look up key terms](./key-terms/), and see the [research and review trail](./research-governance/) before making a decision.
 
 ## The central risk tradeoff
 
