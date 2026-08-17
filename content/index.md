@@ -13,14 +13,15 @@ description: A calm, evidence-based starting point for protecting housing, disab
 
 The first task is **not** to find $40,000. It is to protect housing, food, medical care, utilities, benefit eligibility, and friendships while finding out what is actually at risk.
 
-1. [Stabilize and collect the facts](./getting-started/). Keep essentials current, open all mail, and calendar every court deadline.
-2. [Protect disability income and benefits](./benefits/). SSDI and SSI have importantly different rules.
-3. [Understand collection and home risk](./creditors/). A house can matter even when income is protected.
-4. [Compare non-bankruptcy and bankruptcy paths](./options/). Do not force a repayment plan that the essentials-first budget cannot support.
-5. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
-6. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
-7. [Use verified starting resources](./resources/) or [Jewish community support and referrals](./jewish-community/). Free screening and brief advice can clarify the important branches.
-8. [Read practical FAQs](./faq/), [look up key terms](./key-terms/), and see the [research and review trail](./research-governance/) before making a decision.
+1. **[Court papers, frozen account, lien, or foreclosure notice? Start here now.](./urgent-help/)** Preserve the deadline, papers, and benefit records; get the right help today.
+2. [Stabilize and collect the facts](./getting-started/). Keep essentials current, open all mail, and calendar every court deadline.
+3. [Protect disability income and benefits](./benefits/). SSDI and SSI have importantly different rules.
+4. [Understand collection and home risk](./creditors/). A house can matter even when income is protected.
+5. [Compare non-bankruptcy and bankruptcy paths](./options/). Do not force a repayment plan that the essentials-first budget cannot support.
+6. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
+7. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
+8. [Use verified starting resources](./resources/) or [Jewish community support and referrals](./jewish-community/). Free screening and brief advice can clarify the important branches.
+9. [Read practical FAQs](./faq/), [look up key terms](./key-terms/), and see the [research and review trail](./research-governance/) before making a decision.
 
 ## The central risk tradeoff
 

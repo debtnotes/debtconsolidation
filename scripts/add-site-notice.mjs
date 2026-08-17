@@ -17,9 +17,19 @@ async function htmlFiles(directory) {
 
 for (const path of await htmlFiles(outputRoot.pathname)) {
   const html = await readFile(path, "utf8");
-  if (html.includes('class="site-safety-notice"')) continue;
-  const updated = html.replace("</header>", `${notice}</header>`);
-  if (updated === html) throw new Error(`Could not place notice in ${path}`);
+  let updated = html;
+  updated = updated.replace(
+    /<details class="sidebar-collapse">(<summary class="sidebar-group-summary" aria-expanded=")false("[^>]*><span id="sidebar-group-\d+-label">Act now<\/span>)/g,
+    '<details class="sidebar-collapse" open>$1true$2',
+  );
+  if (!updated.includes('class="skip-link"')) {
+    updated = updated.replace("<body>", '<body><a class="skip-link" href="#main-content">Skip to main content</a>');
+    updated = updated.replace('<main class="doc-main">', '<main id="main-content" class="doc-main" tabindex="-1">');
+  }
+  if (!updated.includes('class="site-safety-notice"')) {
+    updated = updated.replace("</header>", `${notice}</header>`);
+  }
+  if (updated === html) throw new Error(`Could not add page safeguards to ${path}`);
   await writeFile(path, updated);
 }
 

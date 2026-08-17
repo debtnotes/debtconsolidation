@@ -5,10 +5,54 @@
   "out": "./docs",
   "base": "/debtconsolidation/",
   "deploy": "github-pages",
+  "sidebar": [
+    {
+      "text": "Act now",
+      "items": [
+        { "text": "Urgent: court, freeze, foreclosure", "link": "/urgent-help/" },
+        { "text": "Start with facts and budget", "link": "/getting-started/" }
+      ]
+    },
+    {
+      "text": "Protect income and home",
+      "collapsed": true,
+      "items": [
+        { "text": "SSI, SSDI, and Medicaid", "link": "/benefits/" },
+        { "text": "Court papers, judgments, and home", "link": "/creditors/" }
+      ]
+    },
+    {
+      "text": "Choose a path",
+      "collapsed": true,
+      "items": [
+        { "text": "Options and bankruptcy", "link": "/options/" },
+        { "text": "Scams and debt settlement", "link": "/scams/" },
+        { "text": "Help from friends", "link": "/friends/" }
+      ]
+    },
+    {
+      "text": "Get support",
+      "collapsed": true,
+      "items": [
+        { "text": "Maryland help and referrals", "link": "/resources/" },
+        { "text": "Jewish community support", "link": "/jewish-community/" }
+      ]
+    },
+    {
+      "text": "Learn",
+      "collapsed": true,
+      "items": [
+        { "text": "Frequently asked questions", "link": "/faq/" },
+        { "text": "Key terms", "link": "/key-terms/" },
+        { "text": "Key-term guides", "link": "/terms/" },
+        { "text": "Research and review trail", "link": "/research-governance/" }
+      ]
+    }
+  ],
   "headSnippets": [
     "<script type=\"module\">import mermaid from '/debtconsolidation/assets/mermaid/mermaid.esm.min.mjs'; mermaid.initialize({ startOnLoad: false, theme: 'neutral', securityLevel: 'strict', flowchart: { useMaxWidth: true, htmlLabels: true } }); window.addEventListener('DOMContentLoaded', async () => { document.querySelectorAll('pre[data-lang=\"mermaid\"]').forEach((pre) => { const diagram = document.createElement('div'); diagram.className = 'mermaid'; diagram.textContent = pre.textContent; pre.replaceWith(diagram); }); await mermaid.run({ querySelector: '.mermaid' }); });</script>",
     "<meta name=\"robots\" content=\"noindex, nofollow, noarchive, nosnippet\">",
-    "<style>.nav-bar{padding:0}.nav-bar .nav-container{padding:.75rem 1.5rem}.site-safety-notice{margin:0;padding:.35rem 1rem;border-top:1px solid #b45309;background:#fff8e8;color:#4a2a05;font-size:.72rem;line-height:1.25;text-align:center}.site-safety-notice strong{margin-right:.3rem;color:#7c2d12}html.dark .site-safety-notice{background:#2a1b08;color:#fde8be;border-color:#fbbf24}html.dark .site-safety-notice strong{color:#fcd34d}@media(min-width:769px){.sidebar{top:96px;height:calc(100vh - 96px)}}@media(max-width:640px){.nav-bar .nav-container{padding:.65rem 1rem}.site-safety-notice{text-align:left;padding:.4rem 1rem}}</style>"
+    "<style>.skip-link{position:fixed;top:-4rem;left:1rem;z-index:300;padding:.55rem .8rem;background:#123c39;color:#fff;border-radius:.25rem;font-weight:700}.skip-link:focus{top:.5rem}.nav-bar{padding:0}.nav-bar .nav-container{padding:.75rem 1.5rem}.site-safety-notice{margin:0;padding:.35rem 1rem;border-top:1px solid #b45309;background:#fff8e8;color:#4a2a05;font-size:.72rem;line-height:1.25;text-align:center}.site-safety-notice strong{margin-right:.3rem;color:#7c2d12}html.dark .site-safety-notice{background:#2a1b08;color:#fde8be;border-color:#fbbf24}html.dark .site-safety-notice strong{color:#fcd34d}@media(min-width:769px){.sidebar{top:96px;height:calc(100vh - 96px)}}@media(max-width:640px){.nav-bar .nav-container{padding:.65rem 1rem}.site-safety-notice{text-align:left;padding:.4rem 1rem}}</style>"
   ],
   "theme": {
     "primaryColor": "#0f766e",
