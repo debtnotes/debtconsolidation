@@ -23,6 +23,7 @@ Availability, county coverage, income eligibility, conflicts, and fees can chang
 | [Money Management International](https://www.moneymanagement.org/) | NFCC-member nonprofit credit counseling/DMP that serves Maryland remotely. | Confirm current Maryland availability and plan fees/terms. |
 | [HUD housing-counselor search](https://www.hud.gov/housingcounseling) | HUD-approved housing counseling, including reverse-mortgage/refinance/foreclosure questions. | Search by ZIP/county and confirm approval/cost. |
 | [Maryland Office of Financial Regulation](https://labor.maryland.gov/finance/consumers.shtml) | Consumer-finance information, complaints, and licensing resources. | Use for lender/servicer concerns; it is not personal representation. |
+| [FTC ReportFraud](https://reportfraud.ftc.gov/) | Report suspected debt-relief, mortgage-relief, recovery, and impersonation scams. | Preserve the solicitation, contract, payment records, and contact details first. |
 
 ## Match the resource to the need
 
@@ -30,6 +31,7 @@ Availability, county coverage, income eligibility, conflicts, and fees can chang
 - **Home equity or a bankruptcy question:** DAP/MVLS/low-bono consultation before any lien or title move.
 - **SSI, Medicaid, SNAP, or housing assistance:** MAP plus the program administrator/benefits professional before receiving funds or changing title.
 - **Repayment-plan comparison:** NFCC member or MMI, while also asking a lawyer about the home/judgment facts.
+- **An ad, call, or text promises fast relief:** read the [scam-screening guide](./scams/) before sharing information or paying anyone.
 - **Reverse mortgage, refinance, foreclosure, or sale:** HUD counselor plus independent attorney/benefits review.
 
 When the county is known, ask MAP, Court Help, MVLS, and Maryland Legal Aid for county-specific organizations. Do not assume statewide coverage for every type of case.

@@ -17,8 +17,9 @@ The first task is **not** to find $40,000. It is to protect housing, food, medic
 2. [Protect disability income and benefits](./benefits/). SSDI and SSI have importantly different rules.
 3. [Understand collection and home risk](./creditors/). A house can matter even when income is protected.
 4. [Compare non-bankruptcy and bankruptcy paths](./options/). Do not force a repayment plan that the essentials-first budget cannot support.
-5. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
-6. [Use verified starting resources](./resources/). Free screening and brief advice can clarify the important branches.
+5. [Screen debt-relief marketing and scams](./scams/). “Debt consolidation” ads may actually sell debt settlement, with very different risks.
+6. [Approach friends without pressure](./friends/). A home-secured loan should be a late-stage, independently reviewed choice—not the starting point.
+7. [Use verified starting resources](./resources/). Free screening and brief advice can clarify the important branches.
 
 ## The central risk tradeoff
 

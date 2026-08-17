@@ -1,8 +1,8 @@
 {
   "title": "Maryland Debt Decision Wiki",
   "description": "A practical, non-legal-advice research guide for a Maryland homeowner with disability income and credit-card debt.",
-  "docs": "./docs",
-  "out": "./dist",
+  "docs": "./content",
+  "out": "./docs",
   "base": "/debtconsolidation/",
   "deploy": "github-pages",
   "theme": {

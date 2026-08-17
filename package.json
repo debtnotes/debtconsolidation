@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Maryland consumer-debt decision wiki built with Astra.",
   "scripts": {
-    "build": "astra build --out ./dist",
+    "build": "astra build --out ./docs",
     "dev": "astra dev --port 7777"
   },
   "keywords": ["maryland", "debt", "disability", "consumer-debt"],
