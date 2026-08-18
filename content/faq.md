@@ -78,6 +78,8 @@ FTC warns not to share personal or financial information with an unexpected debt
 
 Call the organization using the contact information on its official site—not a number from an unexpected call, text, ad, or search-result listing. Record the representative’s name, date, reference number, and every promised next step. Then compare the written answers from both providers using the [DMP comparison worksheet](./compare-credit-counselors/).
 
+For a complete read-aloud script, official contact paths, and a post-call scorecard, use the [Maryland nonprofit DMP first-call playbook](./first-call-dmp-playbook/).
+
 ## “What is the lowest-risk first request I can make to friends?”
 
 Ask for time and a limited contribution toward independent legal, benefits, appraisal, tax, or counseling costs—not an immediate $40,000 loan. Give a genuine no-pressure option to decline. See [help from friends without pressure](./friends/).

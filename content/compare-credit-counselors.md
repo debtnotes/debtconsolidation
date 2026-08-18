@@ -21,6 +21,8 @@ If either plan needs money that the survival budget does not have, or a summons,
 
 **Protect privacy without hiding material facts:** use the [first-call privacy and accuracy FAQ](./faq/#first-call-with-mmi-or-greenpath-what-should-i-not-reveal) before contacting either provider.
 
+**Ready to call?** Use the [Maryland nonprofit DMP first-call playbook](./first-call-dmp-playbook/) to get comparable written terms from MMI and GreenPath without authorizing enrollment on the call.
+
 ## Transparent shortlist — ranked for a Maryland DMP screening
 
 This is a **screening rank**, not an endorsement or prediction of outcomes. Rank uses: Maryland/DOJ listing where available, NFCC membership, nonprofit/counseling scope, fee transparency, housing/other counseling scope, and an A+ BBB rating checked on the linked profile. BBB is only one consumer-information signal; it is not a quality certification and local BBB profiles can differ in accreditation status.
