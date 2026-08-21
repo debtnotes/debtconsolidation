@@ -100,3 +100,4 @@ Complete this scorecard for MMI and GreenPath, then compare it to direct credito
 
 **Enroll only after** the written agreement matches the quote, every material creditor has accepted, the real budget still works, and any court/benefits/home issue has been separately screened. For a lawsuit or court notice, begin with [urgent help](./urgent-help/) and the [if-sued decision guide](./sued-and-debt-programs/), not a DMP enrollment call.
 
+For Maryland-specific disclosure and pre-acceptance requirements, use the [Maryland DMP acceptance guide](./maryland-dmp-acceptance-guide/).
